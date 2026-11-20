@@ -1,0 +1,15 @@
+{
+  "description": "Adds the instructions for closing responses with a \"What I need from you\" block of pending answers and actions",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/what-i-need-from-you.md\""
+          }
+        ]
+      }
+    ]
+  }
+}

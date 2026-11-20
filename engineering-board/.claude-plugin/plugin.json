@@ -1,0 +1,20 @@
+{
+  "name": "engineering-board",
+  "version": "1.0.1",
+  "description": "An engineering board of four software engineers — Kent Beck, Martin Fowler, Robert C. Martin and Dave Farley — who each review a design, plan or engineering decision in their own voice, and keep their disagreements visible",
+  "author": {
+    "name": "Javi Pazos"
+  },
+  "repository": "https://github.com/javipazos/personal-claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "design-review",
+    "tdd",
+    "refactoring",
+    "continuous-delivery",
+    "specification",
+    "clean-code",
+    "advisory"
+  ]
+}

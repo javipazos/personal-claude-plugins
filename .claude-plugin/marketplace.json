@@ -1,0 +1,96 @@
+{
+  "name": "javipazos-personal-claude-plugins",
+  "owner": {
+    "name": "Javi Pazos"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Javi Pazos — advisory board, terraform upgrade, and more",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "advisory-board",
+      "source": "./advisory-board",
+      "description": "An advisory board of five thinkers — Sinek, Sutherland, Pink, Kahneman, and Stoic philosophy — for reflection, decision-making, and persuasion",
+      "version": "2.0.1",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["think", "pensar", "thinking", "persuasion", "decision-making", "stoicism", "advisory", "reflection", "creation"],
+      "category": "productivity"
+    },
+    {
+      "name": "negotiate",
+      "source": "./negotiate",
+      "description": "Evidence-based negotiation assistant for written negotiations — salary, contracts, vendor terms, stakeholder influence",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["negotiation", "persuasion", "salary", "contracts", "influence"],
+      "category": "productivity"
+    },
+    {
+      "name": "engineering-board",
+      "source": "./engineering-board",
+      "description": "An engineering board of four software engineers — Kent Beck, Martin Fowler, Robert C. Martin and Dave Farley — who each review a design, plan or engineering decision in their own voice, and keep their disagreements visible",
+      "version": "1.0.1",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["engineering", "design-review", "tdd", "refactoring", "continuous-delivery", "specification", "clean-code", "advisory"],
+      "category": "development"
+    },
+    {
+      "name": "what-i-need-from-you",
+      "source": "./what-i-need-from-you",
+      "description": "Ends every response that leaves the user something to answer or do with a highlighted \"What I need from you\" block, so pending questions and actions don't get lost in long responses",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["output-style", "action-items", "questions", "hooks", "productivity"],
+      "category": "productivity"
+    },
+    {
+      "name": "like-an-expert",
+      "source": "./like-an-expert",
+      "description": "Two agents that work the way the best practitioner in a field would: one researches a single question from the raw material and tests its assumptions, the other steps back from the task and returns every reframing and option without discarding any",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["research", "reframing", "options", "investigation", "decision-making", "agents"],
+      "category": "productivity"
+    },
+    {
+      "name": "wild-design",
+      "source": "./wild-design",
+      "description": "Designs new interfaces from a random word seed so they move off the model's most predictable choices, then deepens them with a design critic that judges screenshots alone and finishes them with the impeccable skill",
+      "version": "1.3.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/personal-claude-plugins",
+      "repository": "https://github.com/javipazos/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["design", "ui", "creativity", "critique", "frontend", "agents"],
+      "category": "development"
+    }
+  ]
+}

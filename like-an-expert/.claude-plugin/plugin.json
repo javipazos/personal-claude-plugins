@@ -1,0 +1,18 @@
+{
+  "name": "like-an-expert",
+  "version": "1.0.0",
+  "description": "Two agents that work the way the best practitioner in a field would: one researches a single question from the raw material and tests its assumptions, the other steps back from the task and returns every reframing and option without discarding any",
+  "author": {
+    "name": "Javi Pazos"
+  },
+  "repository": "https://github.com/javipazos/personal-claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "reframing",
+    "options",
+    "investigation",
+    "decision-making",
+    "agents"
+  ]
+}

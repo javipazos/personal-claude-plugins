@@ -1,0 +1,17 @@
+{
+  "name": "what-i-need-from-you",
+  "version": "1.0.0",
+  "description": "Ends every response that leaves the user something to answer or do with a highlighted \"What I need from you\" block, so pending questions and actions don't get lost in long responses",
+  "author": {
+    "name": "Javi Pazos"
+  },
+  "repository": "https://github.com/javipazos/personal-claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "output-style",
+    "action-items",
+    "questions",
+    "hooks",
+    "productivity"
+  ]
+}
